@@ -1,4 +1,5 @@
 wheel
+voila
 jupyter==1.0.0
 fastai==2.0.13
-voila==0.2.3
+#voila==0.2.3
